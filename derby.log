@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 08 22:25:25 IST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-015f-9c8e-cb75-000004628148 
+on database directory /home/sahil/Desktop/twitter-data-analysis/metastore_db with class loader sun.misc.Launcher$AppClassLoader@6665e41 
+Loaded from file:/usr/lib/hive/lib/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_131-b00
+user.dir=/home/sahil/Desktop/twitter-data-analysis
+os.name=Linux
+os.arch=amd64
+os.version=4.2.0-27-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
